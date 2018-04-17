@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"AutoFileName",
+		"Babel",
+		"Better Completion",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Emmet",
+		"FileHeader",
+		"JsFormat",
+		"JSX",
+		"LESS",
+		"Modific",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jsl",
+		"SublimeREPL",
+		"SyncedSidebarBg",
+		"Terminal",
+		"Theme - Afterglow",
+		"TrailingSpaces"
+	]
+}
